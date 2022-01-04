@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Информация о пользователе</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swipe_left_for_register">Свайп влево для авторизации</string>
+    <string name="login">Авторизоваться</string>
+    <string name="password">Пароль</string>
+    <string name="e_mail">Ваш логин</string>
+    <string name="tag">Приложение авторизации и регистрации пользователей \nТестовый текст,чтобы не было скучно. </string>
+    <string name="swipe_right_for_login">Свайп вправо для регистрации</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="re_type_password">Повторите пароль</string>
+    <string name="your_name">Логин</string>
+    <string name="login_user"> </string>
+</resources>
